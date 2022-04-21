@@ -1,4 +1,4 @@
-Hello there 👋 My name is Jordan
+Hello World! Nice to meet you, my name is Jordan 👨🏻‍💻👋🏼
 =======================
 
 Software Engineer
