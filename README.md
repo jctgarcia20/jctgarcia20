@@ -4,7 +4,7 @@ Hello World! Nice to meet you, my name is Jordan 👨🏻‍💻👋🏼
 Software Engineer
 -----------------
 
-I am a Software Developer who is passionate about solving everyday problems and values helping others in order of achieving a better quality of life through my skills and experience. As someone with a demonstrative history of being a self-starter due to my past life as an Electrical Apprentice, I am able to learn on my own but to also know when to ask for help from the rest of the team. I am a humble lifelong learner who yearns to contribute towards a greater good.
+I am a Software Developer who is passionate about solving everyday problems and values helping others in order of achieving a better quality of life through my skills and experience. As someone with a demonstrative history of being a self-starter due to my past life as an Electrical Apprentice, I am able to learn on my own but to also know when to ask for help from the rest of the team. I am a humble lifelong learner who yearns to contribute to the greater good.
 
 * 🌍  I'm based in Seattle, Washington
 * ✉️  You can contact me at [jctgarcia20@gmail.com](mailto:jctgarcia20@gmail.com)
