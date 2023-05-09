@@ -3,9 +3,9 @@
 
 I am a Software Developer passionate about solving everyday problems and value helping others to achieve a better quality of life through my skills and experience. As someone with a demonstrative history of being a self-starter due to my past life as an Electrical Apprentice, I am able to learn on my own but also know when to ask for help from the rest of the team. I am a humble lifelong learner who yearns to contribute to the greater good. 
 
-* 🌍  I'm based in Seattle, Washington
+* 🌍 I'm based in Seattle, Washington
 * ✉️  You can contact me at [jctgarcia20@gmail.com](mailto:jctgarcia20@gmail.com)
-* 🤝  I'm open to collaborating on interesting projects
+* 🤝 I'm open to collaborating on interesting projects
 
 ### Skills
 
@@ -32,8 +32,9 @@ I am a Software Developer passionate about solving everyday problems and value h
 
 <p align="left"> <a href="https://www.github.com/jctgarcia20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jctgarcia20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jctgarcia20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
 
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/jctgarcia20"><img src="https://github-readme-stats.vercel.app/api?username=jctgarcia20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jctgarcia20's GitHub stats" /></a>
+
+![](https://komarev.com/ghpvc/?username=jctgarcia20&style=for-the-badge)
