@@ -33,8 +33,4 @@ I am a Software Developer passionate about solving everyday problems and value h
 <p align="left"> <a href="https://www.github.com/jctgarcia20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jctgarcia20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/jctgarcia20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/jctgarcia20"><img src="https://github-readme-stats.vercel.app/api?username=jctgarcia20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="jctgarcia20's GitHub stats" /></a>
-
 ![](https://komarev.com/ghpvc/?username=jctgarcia20&style=for-the-badge)
