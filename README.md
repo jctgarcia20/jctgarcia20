@@ -3,7 +3,7 @@
 
 I am a Software Developer passionate about solving everyday problems and value helping others to achieve a better quality of life through my skills and experience. As someone with a demonstrative history of being a self-starter due to my past life as an Electrical Apprentice, I am able to learn on my own but also know when to ask for help from the rest of the team. I am a humble lifelong learner who yearns to contribute to the greater good. 
 
-* 🌍 I'm based in Seattle, Washington
+* 🌍 I'm based in the Greater Seattle Area
 * ✉️  You can contact me at [jctgarcia20@gmail.com](mailto:jctgarcia20@gmail.com)
 * 🤝 I'm open to collaborating on interesting projects
 
